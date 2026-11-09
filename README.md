@@ -1,8 +1,8 @@
 # ICONFEST 2026 - JUARA 1 KATEGORI DATA MINING
 ## TIM KATA HAIDAR GAGAL GEMASTIK KITA MAIN KE JABAR
 
-Dani Shofi Nur Izza
-Haidar Adlan Rozaq
+Dani Shofi Nur Izza |
+Haidar Adlan Rozaq |
 Nino Ahmadiy
 
 ![JUARA 1](assets/Sertif_Juara_1.png)
