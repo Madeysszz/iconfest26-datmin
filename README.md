@@ -1,5 +1,5 @@
 # ICONFEST 2026 - JUARA 1 KATEGORI DATA MINING
-## TIM KATA HAIDAR GAGAL GEMASTIK KITA MAIN KE JABAR
+## TIM kata haidar gagal gemastik kita main ke jabar
 
 Dani Shofi Nur Izza |
 Haidar Adlan Rozaq |
