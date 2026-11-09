@@ -1,6 +1,6 @@
 # ICONFEST 2026- JUARA 1 KATEGORI DATA MINING
 
-![Peringkat 17 dari 64](assets/Sertif_Juara_1.png)
+![JUARA 1](assets/Sertif_Juara_1.png)
 
 **AneVision** adalah proyek estimasi kadar hemoglobin (Hb) dan skrining anemia melalui citra konjungtiva mata. Sistem menggabungkan **Ridge Regression** untuk mengestimasi Hb dengan **MobileNetV2 + Logistic Regression** untuk mengklasifikasikan anemia.
 
